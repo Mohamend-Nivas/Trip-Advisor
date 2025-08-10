@@ -1,6 +1,6 @@
 # Trip-Advisor
 
-## How to View - 
+## How to View -  https://mohamend-nivas.github.io/Trip-Advisor/
 
 # TripAdvisor-Inspired Travel Website UI — HTML & CSS 
 
